@@ -2,7 +2,8 @@
 Build a CNN to locate eye centers in cropped face images using the facial keypoints dataset available on [kaggle](https://www.kaggle.com/c/facial-keypoints-detection/data)
 
 ## Progress Details -
-### 2018/08/10: 
+### 2018/08/10:
+#### CNN1
 	Neural Network Architecture:
 	* (3x3) | 32
 	* (3x3) | 64
