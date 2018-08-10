@@ -14,3 +14,8 @@ Build a CNN to locate eye centers in cropped face images using the facial keypoi
 	* 7033 : Eye Centers Kaggle
 
 	Insights Gained:
+	* Ran for **1000** epochs
+	* Model showed clear signs of overfitting -
+		train_loss ~ 1.5e-04
+		val_loss ~ 2.5e-03
+	* We will train CNN_2 now with data augmentation as well
