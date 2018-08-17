@@ -85,7 +85,7 @@ Build a CNN to locate eye centers in cropped face images using the facial keypoi
 		val_loss 	~ 1.9e-03
 	* Total params: 2,005,768. Even with half params than before the NN overfits. Therefore reducing the width of our FC was a good idea. We shall continue to reduce the width FC in CNN_5 and see if we still can overfit our training data
 
-### CNN5
+#### CNN5
 	Neural Network Architecture
 	* (3x3) | 32
 	* (3x3) | 64
